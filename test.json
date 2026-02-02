@@ -1,0 +1,29 @@
+{
+  "export_date": "2026-02-01T12:00:00Z",
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2026-02-01T12:01:00Z",
+      "from": "Ivan Ivanov",
+      "from_id": "user123",
+      "text": "Привет всем!"
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2026-02-01T12:02:00Z",
+      "from": "Petr Petrov",
+      "from_id": "user456",
+      "text": "Ответ @ivanov"
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2026-02-01T12:03:00Z",
+      "from": "Ivan Ivanov",
+      "from_id": "user123",
+      "text": "Ещё сообщение"
+    }
+  ]
+}
